@@ -13,6 +13,9 @@ Then copy the `.env.example` file to `.env` and fill in the necessary values.
 cp .env.example .env
 ```
 
+Note that the OpenAI token you supply will need to have money added to it in
+order to use the API. I suggest spending around $10 to get started.
+
 Then you can use the package as follows:
 
 ```bash
